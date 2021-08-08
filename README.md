@@ -27,7 +27,7 @@ aws configure --profile=localstack
 
 AWS Access Key ID [None]: dummy
 AWS Secret Access Key [None]: dummy
-Default region name [None]: ap-northeast-1
+Default region name [None]: us-east-1
 Default output format [None]: json
 ```
 

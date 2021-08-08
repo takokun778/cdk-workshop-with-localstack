@@ -3,6 +3,9 @@
 *.d.ts
 node_modules
 build
+!lambda
+!hello.js
+!hitcounter.js
 
 # CDK asset staging directory
 .cdk.staging
